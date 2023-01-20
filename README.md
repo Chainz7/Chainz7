@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Binus Online Learning.\
-🌱 &nbsp;I'm on track for learning more about Web Developer, Mobile Developer , and Artificial Intelligence.\
+🌱 &nbsp;I'm on track for learning more about Web Developer, Mobile Developer , and Game Developer.\
 ✍️ &nbsp;In my free time, I pursue Writing a Game Story as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at muharafiar91@gmail.com! I'll try to respond as soon as I can.\
