@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I pursue Writing a Game Story as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at muharafiar91@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://chainz7.github.io/app-portfolio-css/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -41,7 +41,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://chainz7.github.io/app-portfolio-css/"><img src="https://img.shields.io/badge/-MyPortfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://rafi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-MyPortfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-rafi-ardiansyah/"><img src="https://img.shields.io/badge/-Muhammad%20Rafi%20Ardiansyah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muharafiar91@gmail.com"><img src="https://img.shields.io/badge/-muharafiar91@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
