@@ -20,16 +20,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)\
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)\
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
-![Unreal Egnine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)
-![Renpy](https://img.shields.io/badge/-Renpy-05122A?style=flat&logo=renpy)\
+![Renpy](https://img.shields.io/badge/-Renpy-05122A?style=flat&logo=renpy)
+![Unreal Egnine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)\
 ![Adobe XD](https://img.shields.io/badge/-XD-05122A?style=flat&logo=adobexd)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite)
