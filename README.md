@@ -4,13 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies.\
+💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of Binus Online Learning.\
 🌱 &nbsp;I'm on track for learning more about Web Developer, Mobile Developer, and Game Developer.\
 ✍️ &nbsp;In my free time, I like to learn a new programming language.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at muharafiar91@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
